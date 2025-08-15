@@ -170,7 +170,7 @@ namespace Warehouse_Inventory_Management {
             Console.WriteLine("\nRemoving Grocery ID 2:");
             manager.RemoveItemById(manager.GroceriesRepo, 2);
 
-            Console.WriteLine("\nRemoving a non-existent grocery item with _D 405:");
+            Console.WriteLine("\nRemoving a non-existent grocery item with ID 405:");
             manager.RemoveItemById(manager.GroceriesRepo, 405);
 
         }

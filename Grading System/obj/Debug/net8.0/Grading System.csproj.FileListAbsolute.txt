@@ -1,0 +1,15 @@
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\bin\Debug\net8.0\Grading System.exe
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\bin\Debug\net8.0\Grading System.deps.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\bin\Debug\net8.0\Grading System.runtimeconfig.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\bin\Debug\net8.0\Grading System.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\bin\Debug\net8.0\Grading System.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\Grading System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\Grading System.AssemblyInfoInputs.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\Grading System.AssemblyInfo.cs
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\Grading System.csproj.CoreCompileInputs.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\Grading System.sourcelink.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\Grading System.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\refint\Grading System.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\Grading System.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\Grading System.genruntimeconfig.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Grading System\obj\Debug\net8.0\ref\Grading System.dll
