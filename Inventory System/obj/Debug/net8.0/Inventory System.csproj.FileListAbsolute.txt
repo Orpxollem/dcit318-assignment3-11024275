@@ -1,0 +1,15 @@
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\bin\Debug\net8.0\Inventory System.exe
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\bin\Debug\net8.0\Inventory System.deps.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\bin\Debug\net8.0\Inventory System.runtimeconfig.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\bin\Debug\net8.0\Inventory System.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\bin\Debug\net8.0\Inventory System.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\Inventory System.AssemblyInfoInputs.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\Inventory System.AssemblyInfo.cs
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\Inventory System.sourcelink.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\Inventory System.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\refint\Inventory System.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\Inventory System.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\Inventory System.genruntimeconfig.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Inventory System\obj\Debug\net8.0\ref\Inventory System.dll
