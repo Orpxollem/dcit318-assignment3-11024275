@@ -1,0 +1,15 @@
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\bin\Debug\net8.0\Warehouse Inventory Management.exe
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\bin\Debug\net8.0\Warehouse Inventory Management.deps.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\bin\Debug\net8.0\Warehouse Inventory Management.runtimeconfig.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\bin\Debug\net8.0\Warehouse Inventory Management.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\bin\Debug\net8.0\Warehouse Inventory Management.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\Warehouse Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\Warehouse Inventory Management.AssemblyInfoInputs.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\Warehouse Inventory Management.AssemblyInfo.cs
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\Warehouse Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\Warehouse Inventory Management.sourcelink.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\Warehouse Inventory Management.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\refint\Warehouse Inventory Management.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\Warehouse Inventory Management.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\Warehouse Inventory Management.genruntimeconfig.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment3-11024275\Warehouse Inventory Management\obj\Debug\net8.0\ref\Warehouse Inventory Management.dll
